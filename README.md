@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-spark [![Build](https://github.com/benberryallwood/asdf-spark/actions/workflows/build.yml/badge.svg)](https://github.com/benberryallwood/asdf-spark/actions/workflows/build.yml) [![Lint](https://github.com/benberryallwood/asdf-spark/actions/workflows/lint.yml/badge.svg)](https://github.com/benberryallwood/asdf-spark/actions/workflows/lint.yml)
+# mise-spark [![Build](https://github.com/benberryallwood/mise-spark/actions/workflows/build.yml/badge.svg)](https://github.com/benberryallwood/mise-spark/actions/workflows/build.yml) [![Lint](https://github.com/benberryallwood/mise-spark/actions/workflows/lint.yml/badge.svg)](https://github.com/benberryallwood/mise-spark/actions/workflows/lint.yml)
 
 [spark](https://spark.apache.org/documentation.html) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -27,7 +27,7 @@ Plugin:
 ```shell
 asdf plugin add spark
 # or
-asdf plugin add spark https://github.com/benberryallwood/asdf-spark.git
+asdf plugin add spark https://github.com/benberryallwood/mise-spark.git
 ```
 
 spark:
@@ -53,7 +53,7 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/benberryallwood/asdf-spark/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/benberryallwood/mise-spark/graphs/contributors)!
 
 # License
 
